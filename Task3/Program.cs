@@ -16,7 +16,7 @@ namespace Task3
             string part1 = "" , part2="" , part3;
             if((age < 20) || (age > 69)) {
                 Console.WriteLine("Ошибка, введено неверное значение");
-
+                //sdfgsdfgsdfgsdfgsdfg
             }
             else {
                 int d = age / 10;
