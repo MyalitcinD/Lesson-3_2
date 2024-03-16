@@ -21,7 +21,7 @@ namespace Task2
             if(ac == ab) {
                 Console.WriteLine("B и C равноудалены от A на {0}", ab);
             }
-            else if(ac > ab) {
+            else if(ac < ab) {
                 Console.WriteLine("C={0} расположена ближе к A, AC={1}", c, ac);
             }
             else {
